@@ -34,10 +34,10 @@ sections:
           icon_pack: fas
         - name: Computer Vision
           description: Image Generation, Object Detection, Image and Video Compression, Pose Estimation.
-          icon: microchip
+          icon: eye
           icon_pack: fas
         - name: Photography
-#          description: 10%
+          description: Photoshop, Premiere Pro, After Effect, Final Cut Pro, Unity.
           icon: camera-retro
           icon_pack: fas
   - block: experience
