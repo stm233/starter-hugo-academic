@@ -69,7 +69,7 @@ social:
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/174482367?spm_id_from=333.337.0.0
-    label: Follow me on Twitter
+    label: Follow me on bilibili
     display:
       header: true
   # Link to a PDF of your resume/CV.
@@ -86,5 +86,5 @@ email: ''
 highlight_name: true
 ---
 
-Tianma Shen is a PhD Candidate at Santa Clara University. 
+Tianma Shen is a PhD Candidate at Santa Clara University, and also a chinese influencer sharing the tutorials of Deep learning Model, AI projects and NAS. 
 {style="text-align: justify;"}
