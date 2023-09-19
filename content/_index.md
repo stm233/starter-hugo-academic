@@ -31,7 +31,7 @@ sections:
         - name: Deep Learning Model
           description: CNNs, Swin Transformer, GAN, Diffusion Model.
           icon: circle-divide
-          icon_pack: fass
+          icon_pack: fas
         - name: Photography
 #          description: 10%
           icon: camera-retro
