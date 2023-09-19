@@ -27,7 +27,7 @@ sections:
         - name: Xcode
           description: IOS development, UI controller Design.
           icon: app-store-ios
-          icon_pack: fas
+          icon_pack: fab
         - name: Photography
 #          description: 10%
           icon: camera-retro
