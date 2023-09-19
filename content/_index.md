@@ -25,9 +25,13 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: Xcode
-          description: IOS development, UI controller Design.
+          description: IOS development, UI Controller Design.
           icon: app-store-ios
           icon_pack: fab
+        - name: Deep Learning Model
+          description: CNNs, Swin Transformer, GAN, Diffusion Model.
+          icon: circle-divide
+          icon_pack: fass
         - name: Photography
 #          description: 10%
           icon: camera-retro
