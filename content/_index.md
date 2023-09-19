@@ -32,6 +32,10 @@ sections:
           description: CNNs, Swin Transformer, GAN, Diffusion Model.
           icon: microchip
           icon_pack: fas
+        - name: Computer Vision
+          description: Image Generation, Object Detection, Image and Video Compression, Pose Estimation.
+          icon: microchip
+          icon_pack: fas
         - name: Photography
 #          description: 10%
           icon: camera-retro
