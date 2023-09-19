@@ -30,7 +30,7 @@ sections:
           icon_pack: fab
         - name: Deep Learning Model
           description: CNNs, Swin Transformer, GAN, Diffusion Model.
-          icon: circle-divide
+          icon: microchip
           icon_pack: fas
         - name: Photography
 #          description: 10%
