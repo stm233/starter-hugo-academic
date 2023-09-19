@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD Candidate in Computer Science
       institution: Santa Clara University
       year: 2019 - Now
     - course: MEng in Computer Science
