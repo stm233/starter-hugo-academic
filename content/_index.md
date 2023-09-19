@@ -17,16 +17,16 @@ sections:
       title: Skills
       items:
         - name: Python
-#          description: 90%
+          description: Pytorch, Tensorflow, Numpy, Pandas, OpenCV, PIL and etc.
           icon: python
           icon_pack: fab
-        - name: Pytorch
-#          description: 90%
+        - name: Matlab
+          description: Statistics Tools, Signal Processing Tools, PDE solvers.
           icon: chart-line
           icon_pack: fas
-        - name: Pytorch
-#          description: 90%
-          icon: chart-line
+        - name: Xcode
+          description: IOS development, UI controller Design.
+          icon: app-store-ios
           icon_pack: fas
         - name: Photography
 #          description: 10%
