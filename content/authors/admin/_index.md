@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Tianma Shen 沈天马
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Tianma
+last_name: Shen
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate of Santa Clara University
 
 # Organizations/Affiliations to show in About widget
 organizations:
