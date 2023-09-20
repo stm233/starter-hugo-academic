@@ -25,11 +25,11 @@ publishDate: '2019-03-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In "*Advanced Parallel Processing Technologies, 13th International Symposium*"
-publication_short: In "APPT"
+publication: "*SCIENTIA SINICA Informationis*"
+publication_short: ""
 
 #abstract:  The invention relates to an adversarial optimization method for the training process of generative adversarial network. According to the adversarial optimization method for the training process of generative adversarial network, the optimal transmission problem is transformed into solving the elliptic Monge-Ampere partial differential equation (MAPDE) in the generator G. To solve MAPDE of n (n>3) dimensions, the Neumann boundary conditions are improved and the discretization of MAPDE is extended to obtain the optimal mapping between a generator and a discriminator, which constitutes the adversarial network MAGAN. In the process of training the defence network, by overcoming the loss function of the optimal mapping, the defence network can obtain a maximum distance between the two measurements and obtain filtered security samples. The effective attack method of GANs is successfully established, with the precision improved by 5.3%. In addition, the MAGAN can be stably trained without adjusting hyper-parameters, so that the accuracy of target classification and recognition system for unmanned vehicle can be well improved.
   
