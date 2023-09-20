@@ -6,7 +6,7 @@ tags:
 date: '2023-05-1T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: https://github.com/stm233/image-compression-with-swin-transformer
 
 #image:
 #  caption: Photo by rawpixel on Unsplash
