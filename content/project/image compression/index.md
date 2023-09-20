@@ -17,7 +17,7 @@ links:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://space.bilibili.com/174482367?spm_id_from=333.337.0.0
-url_code: ''
+url_code: https://github.com/stm233/image-compression-with-swin-transformer
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 Recent years have witnessed great advances in deep learning-based image compression, also known as learned image compression. An accurate entropy model is essential in learned image compression, since it can compress high-quality images with a lower bit rate. 
