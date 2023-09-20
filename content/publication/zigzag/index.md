@@ -23,7 +23,7 @@ publishDate: '2023-05-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Big Data V, Learning, Analytics, and Applications*
@@ -37,7 +37,7 @@ summary: In this paper, we propose a novel learning-based image coding system us
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
