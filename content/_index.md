@@ -62,6 +62,8 @@ sections:
 #          tag: '*'
         - name: Image/Video Compression
           tag: Compression
+        - name: Generation Model
+          tag: generation
         - name: Bilibili/Youtube
           tag: Bilibili
     design:
