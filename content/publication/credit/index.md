@@ -1,5 +1,5 @@
 ---
-title: 3DACN: 3D Augmented Convolutional Network for Time Series Data
+title: 3DACN, 3D Augmented Convolutional Network for Time Series Data
 authors:
 - Songwen Pei
 - Tianma Shen
