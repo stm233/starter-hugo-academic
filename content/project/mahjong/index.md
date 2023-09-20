@@ -13,6 +13,12 @@ links:
     icon_pack: fab
     name: Follow
     url: https://space.bilibili.com/174482367?spm_id_from=333.337.0.0
+links:
+  - icon: youtube
+    icon_pack: fab
+    name: Follow
+    url: https://www.youtube.com/channel/UC4V5Vr5sj2ndLho-9zw1l9g
+
 
 #image:
 #  caption: Photo by Toa Heftiba on Unsplash
