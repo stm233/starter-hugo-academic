@@ -60,8 +60,8 @@ sections:
       buttons:
 #        - name: All
 #          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Image/Video Compression
+          tag: Image/Video Compression
         - name: Bilibili/Youtube
           tag: Bilibili
     design:
