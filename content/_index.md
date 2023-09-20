@@ -61,7 +61,7 @@ sections:
 #        - name: All
 #          tag: '*'
         - name: Image/Video Compression
-          tag: Image/Video Compression
+          tag: Compression
         - name: Bilibili/Youtube
           tag: Bilibili
     design:

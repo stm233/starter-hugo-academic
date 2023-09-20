@@ -2,7 +2,7 @@
 title: Image Compression with Swin Transformer
 summary: This is transformer-based image compression method, which propose a 2D zigzag entropy model. The paper of this project won the Best Student Paper Award.
 tags:
-  - Image/Video Compression
+  - Compression
 date: '2023-05-1T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://space.bilibili.com/174482367?spm_id_from=333.337.0.0
 url_code: ''
 url_pdf: ''
 url_slides: ''
