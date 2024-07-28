@@ -86,5 +86,9 @@ email: ''
 highlight_name: true
 ---
 
-Tianma Shen is a PhD Candidate at Santa Clara University, and also a chinese influencer sharing the tutorials of Deep learning Model, AI projects and NAS. 
+As a PhD student specializing in computer vision, I am deeply passionate about advancing the field of image and video compression. My research focuses on developing innovative algorithms and techniques to enhance the efficiency and quality of visual data compression.
+
+With hands-on experience in object detection and segmentation, I have honed my skills in creating robust computer vision models that can accurately interpret and analyze visual information. Recently, I have extended my expertise to practical applications by developing an AI Deck detection app, which leverages state-of-the-art computer vision technologies to provide effective and user-friendly solutions.
+
+I am driven by the challenge of solving complex problems and am always eager to collaborate with professionals who share a passion for pushing the boundaries of technology. Feel free to connect with me to discuss potential opportunities, share insights, or explore collaborations.
 {style="text-align: justify;"}
