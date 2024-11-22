@@ -37,7 +37,7 @@ transforming floor plans into 2D matrices and enhancing customer experiences thr
 This experience reinforced my capabilities in ML model development and demonstrated my capacity for impactful AI-driven solutions, 
 which I am eager to extend into creating meaningful gameplay experiences.
 
-![FloorPlan Detection Result](https://drive.google.com/file/d/1omtvGKN6gikJWCDh6GcC64BxRQK8L8sB/view?usp=sharing)
+![FloorPlan Detection Result](./example2.png)
 ![FloorPlan Detection Result](./example1.jpg)
 
 
