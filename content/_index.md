@@ -24,8 +24,8 @@ sections:
           description: Statistics Tools, Signal Processing Tools, PDE solvers.
           icon: chart-line
           icon_pack: fas
-        - name: Xcode
-          description: IOS development, UI Controller Design.
+        - name: Xcode/Fultter
+          description: IOS/Android development, UI Controller Design.
           icon: app-store-ios
           icon_pack: fab
         - name: Deep Learning Model
@@ -33,7 +33,7 @@ sections:
           icon: microchip
           icon_pack: fas
         - name: Computer Vision
-          description: Image Generation, Object Detection, Image and Video Compression, Pose Estimation.
+          description: Image Generation, Object Detection, Image and Video Compression, Pose Estimation, Segmentation.
           icon: eye
           icon_pack: fas
         - name: Photography
