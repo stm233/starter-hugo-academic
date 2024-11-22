@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD Candidate in Computer Science
       institution: Santa Clara University
-      year: 2019 - Now
+      year: 2019 - 2025(EST)
     - course: MEng in Computer Science
       institution: University of Shanghai for Science and Technology
       year: 2017 - 2019

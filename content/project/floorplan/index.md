@@ -32,3 +32,12 @@ url_video: ''
 
 This project is processing during I worked at B&Q company.
 
+At B&Q, where I previously worked as an Applied Scientist, I built a recommendation system that generated architectural layout suggestions based on user preferences, 
+transforming floor plans into 2D matrices and enhancing customer experiences through similarity detection algorithms. 
+This experience reinforced my capabilities in ML model development and demonstrated my capacity for impactful AI-driven solutions, 
+which I am eager to extend into creating meaningful gameplay experiences.
+
+![FloorPlan Detection Result](http://Tenma.synology.me:5000/d/f/610869870401205894)
+
+
+
