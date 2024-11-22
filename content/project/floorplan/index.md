@@ -30,3 +30,5 @@ url_video: ''
 #slides: example
 ---
 
+This project is processing during I worked at B&Q company.
+
