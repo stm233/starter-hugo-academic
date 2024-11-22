@@ -37,7 +37,10 @@ transforming floor plans into 2D matrices and enhancing customer experiences thr
 This experience reinforced my capabilities in ML model development and demonstrated my capacity for impactful AI-driven solutions, 
 which I am eager to extend into creating meaningful gameplay experiences.
 
+The first step is to detect the space, scale marks and wall/door/window in floorplan.
+
 ![FloorPlan Detection Result](./example2.png)
 ![FloorPlan Detection Result](./example1.jpg)
 
-
+Then for each space based on the existing category, we match the top 5 case for consumers.
+![FloorPlan Detection Result](./cat.png)
