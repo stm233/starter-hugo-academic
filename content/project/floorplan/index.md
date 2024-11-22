@@ -38,6 +38,6 @@ This experience reinforced my capabilities in ML model development and demonstra
 which I am eager to extend into creating meaningful gameplay experiences.
 
 ![FloorPlan Detection Result](https://drive.google.com/file/d/1omtvGKN6gikJWCDh6GcC64BxRQK8L8sB/view?usp=sharing)
-![FloorPlan Detection Result](http://Tenma.synology.me:5000/d/f/kyy3Kux6xd6OqMXBQwF2xy0AJ7FwrqTi)
+![FloorPlan Detection Result](./example1.jpg)
 
 
