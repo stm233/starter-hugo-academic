@@ -1,12 +1,12 @@
 ---
-title: Image Compression for classification, object detection and segmentation
-summary: This is image compression for machine, which propose a transformer-based context entropy model.
+title: Image Compression with Swin Transformer
+summary: This is transformer-based image compression method, which propose a 2D zigzag entropy model. The paper of this project won the Best Student Paper Award.
 tags:
   - Compression
-date: '2024-06-1T00:00:00Z'
+date: '2023-05-1T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/stm233/image-compression-for-machine
+external_link: https://github.com/stm233/image-compression-with-swin-transformer
 
 #image:
 #  caption: Photo by rawpixel on Unsplash
@@ -17,7 +17,7 @@ links:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://space.bilibili.com/174482367?spm_id_from=333.337.0.0
-url_code: https://github.com/stm233/image-compression-for-machine
+url_code: https://github.com/stm233/image-compression-with-swin-transformer
 url_pdf: ''
 url_slides: ''
 url_video: ''
