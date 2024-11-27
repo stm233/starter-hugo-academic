@@ -1,6 +1,6 @@
 ---
 title: Fish2Mesh
-summary: 
+summary: A fisheye-aware transformer-based model designed for 3D egocentric human mesh recovery. We propose an egocentric position embedding block to generate an ego-specific position table for the Swin Transformer to reduce fisheye image distortion.
 tags:
   - generation
 date: '2024-09-1T00:00:00Z'
