@@ -3,7 +3,7 @@ title: MAGAN
 summary: We utilize the solutions of Monge–Ampère Partial Differential Equation (MAPDE) as the new loss function of WGAN to make the training process more stable.
 tags:
   - generation
-date: '2020-05-1T00:00:00Z'
+date: '2017-05-1T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
