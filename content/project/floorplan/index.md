@@ -1,5 +1,5 @@
 ---
-title: AI Design
+title: Home Design
 summary: Apply the GAN to generate the layout of the furniture in the bedroom, living room, dining room and bath room.
 tags:
   - generation
